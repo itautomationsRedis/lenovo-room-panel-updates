@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "package": "org.roompanel.launcher",
-  "versionCode": 7,
-  "versionName": "7.0",
-  "bytes": 86530,
-  "sha256": "5d600cf9feaed1c096c15e035857385f68816c92ddd316d4452b0540a4ac55e8",
-  "apkPath": "RoomPanel-7.0.apk"
+  "versionCode": 8,
+  "versionName": "8.0",
+  "bytes": 98818,
+  "sha256": "d3c9d0bd4f24a0b6c6117cb98b8e1de1de40740654f330580f8914c75314de11",
+  "apkPath": "RoomPanel-8.0.apk"
 }
